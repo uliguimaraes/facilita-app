@@ -75,7 +75,7 @@ O projeto foi conduzido seguindo as etapas do **Design Thinking**:
 
 ## Documentação
 
-- [Product Requirements Document — PRD](./Facilita_PRD_Atualizado.pdf)
+- [Product Requirements Document — PRD](./Facilita_PRD_Atualizado(1).pdf)
 
 ## Protótipo e apresentações
 
