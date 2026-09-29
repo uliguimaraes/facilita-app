@@ -77,6 +77,13 @@ O projeto foi conduzido seguindo as etapas do **Design Thinking**:
 
 - [Product Requirements Document — PRD](./Facilita_PRD_Atualizado.pdf)
 
+## Protótipo e apresentações
+
+- [Protótipo inicial no Figma Make](https://www.figma.com/make/MD2OzKDuPZrzBag7nG4tM9/Design-de-App-Acess%C3%ADvel--c%C3%B3pia-?p=f&t=f6x2mxi8Iz6vsHX1-0)
+- [Protótipo atualizado após os testes de usabilidade](https://www.figma.com/make/YDMNDffVp3XsmyCOvuj0P6/Design-de-App-Acess%C3%ADvel?p=f&t=F8GtmPNQtJ8T1oif-0)
+- [Apresentação dos testes de usabilidade](https://www.figma.com/slides/izkMcpgr6HpDpPSEATFxgE/Facilita-_Testes_de_Usabilidade_V2?node-id=0-20&t=F8GtmPNQtJ8T1oif-0)
+- [Slides de apresentação do aplicativo](https://www.figma.com/slides/FmNwzBB2gpt6Y7LTK0oqRz/Facilita-_Design_de_App_Acess%C3%ADvel--1-?t=F8GtmPNQtJ8T1oif-0)
+
 ## Backlog
 
 O Product Backlog foi organizado no Trello, com user stories distribuídas por sprint:
